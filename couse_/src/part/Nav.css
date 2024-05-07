@@ -1,0 +1,10 @@
+.navi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(57, 4, 106);
+    height: 40px;
+    font-size: 30px;
+    color: coral;
+
+}
